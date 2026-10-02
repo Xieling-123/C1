@@ -18,8 +18,6 @@ cd D:\mytool\01_doc\doc-C\C0\build
 cd D:\mytool\01_doc\doc-C\C0\build
 .\test.exe
 
-
-
 建立仓库，cd到对应路径，进行首次提交，日常先pull再推送
 
 git版本控制，提交后，日常更新自动化
