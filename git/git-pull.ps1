@@ -1,38 +1,40 @@
 # ============================================================
-#  git-pull.ps1 - 自动化更新脚本
-#  功能：自动 stash -> pull -> stash pop
+#  git-push.ps1 - Auto Commit & Push
+#  功能：自动 add -> commit (带时间戳) -> push
 # ============================================================
 
-Write-Host "=== 开始自动化更新 ===" -ForegroundColor Cyan
+Write-Host "=== Start Auto Push ===" -ForegroundColor Cyan
 
 # 1. 检查是否在 Git 仓库中
 if (-not (Test-Path ".git")) {
-    Write-Host "错误：当前目录不是 Git 仓库！" -ForegroundColor Red
+    Write-Host "Error: Not a Git repository!" -ForegroundColor Red
     exit 1
 }
 
-# 2. 检查是否有未提交的本地修改
+# 2. 检查是否有文件变更
 $status = git status --porcelain
-if ($status) {
-    Write-Host "检测到本地有未提交的修改，正在暂存..." -ForegroundColor Yellow
-    git stash push -m "auto-stash before pull"
-    $stashed = $true
-} else {
-    $stashed = $false
+if (-not $status) {
+    Write-Host "Working tree clean, nothing to commit." -ForegroundColor Yellow
+    exit 0
 }
 
-# 3. 从远程仓库拉取更新
-Write-Host "正在从远程仓库拉取更新..." -ForegroundColor Green
-git pull origin main
+# 3. 添加所有变更到暂存区
+Write-Host "Adding files..." -ForegroundColor Green
+git add .
 
-# 4. 恢复暂存的本地修改
-if ($stashed) {
-    Write-Host "正在恢复本地修改..." -ForegroundColor Yellow
-    git stash pop
-}
+# 4. 生成带时间戳的提交信息（纯英文，绝对防乱码）
+$timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
+$commitMessage = "auto commit: $timestamp"
+Write-Host "Committing: $commitMessage" -ForegroundColor Green
+git commit -m "$commitMessage"
 
+# 5. 推送到远程仓库
+Write-Host "Pushing to remote..." -ForegroundColor Green
+git push origin main
+
+# 6. 结果反馈
 if ($LASTEXITCODE -eq 0) {
-    Write-Host "=== 更新成功！===" -ForegroundColor Cyan
+    Write-Host "=== Push Success! ===" -ForegroundColor Cyan
 } else {
-    Write-Host "=== 更新失败，请检查网络或远程仓库状态 ===" -ForegroundColor Red
+    Write-Host "=== Push Failed ===" -ForegroundColor Red
 }
