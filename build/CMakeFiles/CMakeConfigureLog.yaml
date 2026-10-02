@@ -61,6 +61,7 @@ events:
       - "C:/Users/20503/go/bin/"
       - "C:/mingw64/bin/"
       - "C:/Users/20503/.dotnet/tools/"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/"
       - "/REGISTRY-NOTFOUND/bin/"
       - "c:/MinGW/bin/"
       - "/MinGW/bin/"
@@ -179,6 +180,7 @@ events:
         - "C:\\mingw64\\bin"
         - "C:\\Users\\20503\\.dotnet\\tools"
         - "C:\\Program Files\\dotnet\\"
+        - "c:\\Users\\20503\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScriptsc:\\Users\\20503\\.vscode\\extensions\\vscjava.vscode-java-debug-0.59.0\\bundled\\scripts\\noConfigScripts"
   -
     kind: "find-v1"
     backtrace:
@@ -239,6 +241,7 @@ events:
       - "C:/Users/20503/go/bin/"
       - "C:/mingw64/bin/"
       - "C:/Users/20503/.dotnet/tools/"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "C:/Users/20503/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/cc.com"
       - "C:/Users/20503/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/cc.exe"
@@ -961,6 +964,7 @@ events:
         - "C:\\mingw64\\bin"
         - "C:\\Users\\20503\\.dotnet\\tools"
         - "C:\\Program Files\\dotnet\\"
+        - "c:\\Users\\20503\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScriptsc:\\Users\\20503\\.vscode\\extensions\\vscjava.vscode-java-debug-0.59.0\\bundled\\scripts\\noConfigScripts"
   -
     kind: "find-v1"
     backtrace:
@@ -1033,6 +1037,7 @@ events:
         - "C:\\mingw64\\bin"
         - "C:\\Users\\20503\\.dotnet\\tools"
         - "C:\\Program Files\\dotnet\\"
+        - "c:\\Users\\20503\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScriptsc:\\Users\\20503\\.vscode\\extensions\\vscjava.vscode-java-debug-0.59.0\\bundled\\scripts\\noConfigScripts"
   -
     kind: "message-v1"
     backtrace:
@@ -1109,6 +1114,7 @@ events:
       - "C:/Users/20503/AppData/Roaming/Programs/Zero Install/"
       - "C:/Users/20503/go/bin/"
       - "C:/Users/20503/.dotnet/tools/"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "C:/mingw64/bin/ar.com"
     found: "C:/mingw64/bin/ar.exe"
@@ -1159,6 +1165,7 @@ events:
         - "C:\\mingw64\\bin"
         - "C:\\Users\\20503\\.dotnet\\tools"
         - "C:\\Program Files\\dotnet\\"
+        - "c:\\Users\\20503\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScriptsc:\\Users\\20503\\.vscode\\extensions\\vscjava.vscode-java-debug-0.59.0\\bundled\\scripts\\noConfigScripts"
   -
     kind: "find-v1"
     backtrace:
@@ -1213,6 +1220,7 @@ events:
       - "C:/Users/20503/AppData/Roaming/Programs/Zero Install/"
       - "C:/Users/20503/go/bin/"
       - "C:/Users/20503/.dotnet/tools/"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "C:/mingw64/bin/ranlib.com"
     found: "C:/mingw64/bin/ranlib.exe"
@@ -1263,6 +1271,7 @@ events:
         - "C:\\mingw64\\bin"
         - "C:\\Users\\20503\\.dotnet\\tools"
         - "C:\\Program Files\\dotnet\\"
+        - "c:\\Users\\20503\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScriptsc:\\Users\\20503\\.vscode\\extensions\\vscjava.vscode-java-debug-0.59.0\\bundled\\scripts\\noConfigScripts"
   -
     kind: "find-v1"
     backtrace:
@@ -1317,6 +1326,7 @@ events:
       - "C:/Users/20503/AppData/Roaming/Programs/Zero Install/"
       - "C:/Users/20503/go/bin/"
       - "C:/Users/20503/.dotnet/tools/"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "C:/mingw64/bin/strip.com"
     found: "C:/mingw64/bin/strip.exe"
@@ -1367,6 +1377,7 @@ events:
         - "C:\\mingw64\\bin"
         - "C:\\Users\\20503\\.dotnet\\tools"
         - "C:\\Program Files\\dotnet\\"
+        - "c:\\Users\\20503\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScriptsc:\\Users\\20503\\.vscode\\extensions\\vscjava.vscode-java-debug-0.59.0\\bundled\\scripts\\noConfigScripts"
   -
     kind: "find-v1"
     backtrace:
@@ -1421,6 +1432,7 @@ events:
       - "C:/Users/20503/AppData/Roaming/Programs/Zero Install/"
       - "C:/Users/20503/go/bin/"
       - "C:/Users/20503/.dotnet/tools/"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "C:/mingw64/bin/ld.com"
     found: "C:/mingw64/bin/ld.exe"
@@ -1471,6 +1483,7 @@ events:
         - "C:\\mingw64\\bin"
         - "C:\\Users\\20503\\.dotnet\\tools"
         - "C:\\Program Files\\dotnet\\"
+        - "c:\\Users\\20503\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScriptsc:\\Users\\20503\\.vscode\\extensions\\vscjava.vscode-java-debug-0.59.0\\bundled\\scripts\\noConfigScripts"
   -
     kind: "find-v1"
     backtrace:
@@ -1525,6 +1538,7 @@ events:
       - "C:/Users/20503/AppData/Roaming/Programs/Zero Install/"
       - "C:/Users/20503/go/bin/"
       - "C:/Users/20503/.dotnet/tools/"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "C:/mingw64/bin/nm.com"
     found: "C:/mingw64/bin/nm.exe"
@@ -1575,6 +1589,7 @@ events:
         - "C:\\mingw64\\bin"
         - "C:\\Users\\20503\\.dotnet\\tools"
         - "C:\\Program Files\\dotnet\\"
+        - "c:\\Users\\20503\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScriptsc:\\Users\\20503\\.vscode\\extensions\\vscjava.vscode-java-debug-0.59.0\\bundled\\scripts\\noConfigScripts"
   -
     kind: "find-v1"
     backtrace:
@@ -1629,6 +1644,7 @@ events:
       - "C:/Users/20503/AppData/Roaming/Programs/Zero Install/"
       - "C:/Users/20503/go/bin/"
       - "C:/Users/20503/.dotnet/tools/"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "C:/mingw64/bin/objdump.com"
     found: "C:/mingw64/bin/objdump.exe"
@@ -1679,6 +1695,7 @@ events:
         - "C:\\mingw64\\bin"
         - "C:\\Users\\20503\\.dotnet\\tools"
         - "C:\\Program Files\\dotnet\\"
+        - "c:\\Users\\20503\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScriptsc:\\Users\\20503\\.vscode\\extensions\\vscjava.vscode-java-debug-0.59.0\\bundled\\scripts\\noConfigScripts"
   -
     kind: "find-v1"
     backtrace:
@@ -1733,6 +1750,7 @@ events:
       - "C:/Users/20503/AppData/Roaming/Programs/Zero Install/"
       - "C:/Users/20503/go/bin/"
       - "C:/Users/20503/.dotnet/tools/"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "C:/mingw64/bin/objcopy.com"
     found: "C:/mingw64/bin/objcopy.exe"
@@ -1783,6 +1801,7 @@ events:
         - "C:\\mingw64\\bin"
         - "C:\\Users\\20503\\.dotnet\\tools"
         - "C:\\Program Files\\dotnet\\"
+        - "c:\\Users\\20503\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScriptsc:\\Users\\20503\\.vscode\\extensions\\vscjava.vscode-java-debug-0.59.0\\bundled\\scripts\\noConfigScripts"
   -
     kind: "find-v1"
     backtrace:
@@ -1837,6 +1856,7 @@ events:
       - "C:/Users/20503/AppData/Roaming/Programs/Zero Install/"
       - "C:/Users/20503/go/bin/"
       - "C:/Users/20503/.dotnet/tools/"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "C:/mingw64/bin/readelf.com"
     found: "C:/mingw64/bin/readelf.exe"
@@ -1887,6 +1907,7 @@ events:
         - "C:\\mingw64\\bin"
         - "C:\\Users\\20503\\.dotnet\\tools"
         - "C:\\Program Files\\dotnet\\"
+        - "c:\\Users\\20503\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScriptsc:\\Users\\20503\\.vscode\\extensions\\vscjava.vscode-java-debug-0.59.0\\bundled\\scripts\\noConfigScripts"
   -
     kind: "find-v1"
     backtrace:
@@ -1941,6 +1962,7 @@ events:
       - "C:/Users/20503/AppData/Roaming/Programs/Zero Install/"
       - "C:/Users/20503/go/bin/"
       - "C:/Users/20503/.dotnet/tools/"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "C:/mingw64/bin/dlltool.com"
     found: "C:/mingw64/bin/dlltool.exe"
@@ -1991,6 +2013,7 @@ events:
         - "C:\\mingw64\\bin"
         - "C:\\Users\\20503\\.dotnet\\tools"
         - "C:\\Program Files\\dotnet\\"
+        - "c:\\Users\\20503\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScriptsc:\\Users\\20503\\.vscode\\extensions\\vscjava.vscode-java-debug-0.59.0\\bundled\\scripts\\noConfigScripts"
   -
     kind: "find-v1"
     backtrace:
@@ -2045,6 +2068,7 @@ events:
       - "C:/Users/20503/AppData/Roaming/Programs/Zero Install/"
       - "C:/Users/20503/go/bin/"
       - "C:/Users/20503/.dotnet/tools/"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "C:/mingw64/bin/addr2line.com"
     found: "C:/mingw64/bin/addr2line.exe"
@@ -2095,6 +2119,7 @@ events:
         - "C:\\mingw64\\bin"
         - "C:\\Users\\20503\\.dotnet\\tools"
         - "C:\\Program Files\\dotnet\\"
+        - "c:\\Users\\20503\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScriptsc:\\Users\\20503\\.vscode\\extensions\\vscjava.vscode-java-debug-0.59.0\\bundled\\scripts\\noConfigScripts"
   -
     kind: "find-v1"
     backtrace:
@@ -2149,6 +2174,7 @@ events:
       - "C:/Users/20503/AppData/Roaming/Programs/Zero Install/"
       - "C:/Users/20503/go/bin/"
       - "C:/Users/20503/.dotnet/tools/"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "C:/mingw64/bin/tapi.com"
       - "C:/mingw64/bin/tapi.exe"
@@ -2252,6 +2278,9 @@ events:
       - "C:/Users/20503/.dotnet/tools/tapi.com"
       - "C:/Users/20503/.dotnet/tools/tapi.exe"
       - "C:/Users/20503/.dotnet/tools/tapi"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/tapi.com"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/tapi.exe"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/tapi"
     found: false
     search_context:
       ENV{PATH}:
@@ -2300,6 +2329,7 @@ events:
         - "C:\\mingw64\\bin"
         - "C:\\Users\\20503\\.dotnet\\tools"
         - "C:\\Program Files\\dotnet\\"
+        - "c:\\Users\\20503\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScriptsc:\\Users\\20503\\.vscode\\extensions\\vscjava.vscode-java-debug-0.59.0\\bundled\\scripts\\noConfigScripts"
   -
     kind: "find-v1"
     backtrace:
@@ -2357,6 +2387,7 @@ events:
       - "C:/Users/20503/AppData/Roaming/Programs/Zero Install/"
       - "C:/Users/20503/go/bin/"
       - "C:/Users/20503/.dotnet/tools/"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "C:/mingw64/bin/gcc-ar-16.2.com"
       - "C:/mingw64/bin/gcc-ar-16.2.exe"
@@ -2460,6 +2491,9 @@ events:
       - "C:/Users/20503/.dotnet/tools/gcc-ar-16.2.com"
       - "C:/Users/20503/.dotnet/tools/gcc-ar-16.2.exe"
       - "C:/Users/20503/.dotnet/tools/gcc-ar-16.2"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ar-16.2.com"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ar-16.2.exe"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ar-16.2"
       - "C:/mingw64/bin/gcc-ar-16.com"
       - "C:/mingw64/bin/gcc-ar-16.exe"
       - "C:/mingw64/bin/gcc-ar-16"
@@ -2562,6 +2596,9 @@ events:
       - "C:/Users/20503/.dotnet/tools/gcc-ar-16.com"
       - "C:/Users/20503/.dotnet/tools/gcc-ar-16.exe"
       - "C:/Users/20503/.dotnet/tools/gcc-ar-16"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ar-16.com"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ar-16.exe"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ar-16"
       - "C:/mingw64/bin/gcc-ar16.com"
       - "C:/mingw64/bin/gcc-ar16.exe"
       - "C:/mingw64/bin/gcc-ar16"
@@ -2664,6 +2701,9 @@ events:
       - "C:/Users/20503/.dotnet/tools/gcc-ar16.com"
       - "C:/Users/20503/.dotnet/tools/gcc-ar16.exe"
       - "C:/Users/20503/.dotnet/tools/gcc-ar16"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ar16.com"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ar16.exe"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ar16"
       - "C:/mingw64/bin/gcc-ar.com"
     found: "C:/mingw64/bin/gcc-ar.exe"
     search_context:
@@ -2713,6 +2753,7 @@ events:
         - "C:\\mingw64\\bin"
         - "C:\\Users\\20503\\.dotnet\\tools"
         - "C:\\Program Files\\dotnet\\"
+        - "c:\\Users\\20503\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScriptsc:\\Users\\20503\\.vscode\\extensions\\vscjava.vscode-java-debug-0.59.0\\bundled\\scripts\\noConfigScripts"
   -
     kind: "find-v1"
     backtrace:
@@ -2770,6 +2811,7 @@ events:
       - "C:/Users/20503/AppData/Roaming/Programs/Zero Install/"
       - "C:/Users/20503/go/bin/"
       - "C:/Users/20503/.dotnet/tools/"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "C:/mingw64/bin/gcc-ranlib-16.2.com"
       - "C:/mingw64/bin/gcc-ranlib-16.2.exe"
@@ -2873,6 +2915,9 @@ events:
       - "C:/Users/20503/.dotnet/tools/gcc-ranlib-16.2.com"
       - "C:/Users/20503/.dotnet/tools/gcc-ranlib-16.2.exe"
       - "C:/Users/20503/.dotnet/tools/gcc-ranlib-16.2"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ranlib-16.2.com"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ranlib-16.2.exe"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ranlib-16.2"
       - "C:/mingw64/bin/gcc-ranlib-16.com"
       - "C:/mingw64/bin/gcc-ranlib-16.exe"
       - "C:/mingw64/bin/gcc-ranlib-16"
@@ -2975,6 +3020,9 @@ events:
       - "C:/Users/20503/.dotnet/tools/gcc-ranlib-16.com"
       - "C:/Users/20503/.dotnet/tools/gcc-ranlib-16.exe"
       - "C:/Users/20503/.dotnet/tools/gcc-ranlib-16"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ranlib-16.com"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ranlib-16.exe"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ranlib-16"
       - "C:/mingw64/bin/gcc-ranlib16.com"
       - "C:/mingw64/bin/gcc-ranlib16.exe"
       - "C:/mingw64/bin/gcc-ranlib16"
@@ -3077,6 +3125,9 @@ events:
       - "C:/Users/20503/.dotnet/tools/gcc-ranlib16.com"
       - "C:/Users/20503/.dotnet/tools/gcc-ranlib16.exe"
       - "C:/Users/20503/.dotnet/tools/gcc-ranlib16"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ranlib16.com"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ranlib16.exe"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ranlib16"
       - "C:/mingw64/bin/gcc-ranlib.com"
     found: "C:/mingw64/bin/gcc-ranlib.exe"
     search_context:
@@ -3126,6 +3177,7 @@ events:
         - "C:\\mingw64\\bin"
         - "C:\\Users\\20503\\.dotnet\\tools"
         - "C:\\Program Files\\dotnet\\"
+        - "c:\\Users\\20503\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScriptsc:\\Users\\20503\\.vscode\\extensions\\vscjava.vscode-java-debug-0.59.0\\bundled\\scripts\\noConfigScripts"
   -
     kind: "find-v1"
     backtrace:
@@ -3202,6 +3254,7 @@ events:
         - "C:\\mingw64\\bin"
         - "C:\\Users\\20503\\.dotnet\\tools"
         - "C:\\Program Files\\dotnet\\"
+        - "c:\\Users\\20503\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScriptsc:\\Users\\20503\\.vscode\\extensions\\vscjava.vscode-java-debug-0.59.0\\bundled\\scripts\\noConfigScripts"
   -
     kind: "find-v1"
     backtrace:
@@ -3274,6 +3327,7 @@ events:
         - "C:\\mingw64\\bin"
         - "C:\\Users\\20503\\.dotnet\\tools"
         - "C:\\Program Files\\dotnet\\"
+        - "c:\\Users\\20503\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScriptsc:\\Users\\20503\\.vscode\\extensions\\vscjava.vscode-java-debug-0.59.0\\bundled\\scripts\\noConfigScripts"
   -
     kind: "message-v1"
     backtrace:
@@ -3353,6 +3407,7 @@ events:
       - "C:/Users/20503/AppData/Roaming/Programs/Zero Install/"
       - "C:/Users/20503/go/bin/"
       - "C:/Users/20503/.dotnet/tools/"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "C:/mingw64/bin/gcc-ar-16.2.com"
       - "C:/mingw64/bin/gcc-ar-16.2.exe"
@@ -3456,6 +3511,9 @@ events:
       - "C:/Users/20503/.dotnet/tools/gcc-ar-16.2.com"
       - "C:/Users/20503/.dotnet/tools/gcc-ar-16.2.exe"
       - "C:/Users/20503/.dotnet/tools/gcc-ar-16.2"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ar-16.2.com"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ar-16.2.exe"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ar-16.2"
       - "C:/mingw64/bin/gcc-ar-16.com"
       - "C:/mingw64/bin/gcc-ar-16.exe"
       - "C:/mingw64/bin/gcc-ar-16"
@@ -3558,6 +3616,9 @@ events:
       - "C:/Users/20503/.dotnet/tools/gcc-ar-16.com"
       - "C:/Users/20503/.dotnet/tools/gcc-ar-16.exe"
       - "C:/Users/20503/.dotnet/tools/gcc-ar-16"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ar-16.com"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ar-16.exe"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ar-16"
       - "C:/mingw64/bin/gcc-ar16.com"
       - "C:/mingw64/bin/gcc-ar16.exe"
       - "C:/mingw64/bin/gcc-ar16"
@@ -3660,6 +3721,9 @@ events:
       - "C:/Users/20503/.dotnet/tools/gcc-ar16.com"
       - "C:/Users/20503/.dotnet/tools/gcc-ar16.exe"
       - "C:/Users/20503/.dotnet/tools/gcc-ar16"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ar16.com"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ar16.exe"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ar16"
       - "C:/mingw64/bin/gcc-ar.com"
     found: "C:/mingw64/bin/gcc-ar.exe"
     search_context:
@@ -3709,6 +3773,7 @@ events:
         - "C:\\mingw64\\bin"
         - "C:\\Users\\20503\\.dotnet\\tools"
         - "C:\\Program Files\\dotnet\\"
+        - "c:\\Users\\20503\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScriptsc:\\Users\\20503\\.vscode\\extensions\\vscjava.vscode-java-debug-0.59.0\\bundled\\scripts\\noConfigScripts"
   -
     kind: "find-v1"
     backtrace:
@@ -3766,6 +3831,7 @@ events:
       - "C:/Users/20503/AppData/Roaming/Programs/Zero Install/"
       - "C:/Users/20503/go/bin/"
       - "C:/Users/20503/.dotnet/tools/"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "C:/mingw64/bin/gcc-ranlib-16.2.com"
       - "C:/mingw64/bin/gcc-ranlib-16.2.exe"
@@ -3869,6 +3935,9 @@ events:
       - "C:/Users/20503/.dotnet/tools/gcc-ranlib-16.2.com"
       - "C:/Users/20503/.dotnet/tools/gcc-ranlib-16.2.exe"
       - "C:/Users/20503/.dotnet/tools/gcc-ranlib-16.2"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ranlib-16.2.com"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ranlib-16.2.exe"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ranlib-16.2"
       - "C:/mingw64/bin/gcc-ranlib-16.com"
       - "C:/mingw64/bin/gcc-ranlib-16.exe"
       - "C:/mingw64/bin/gcc-ranlib-16"
@@ -3971,6 +4040,9 @@ events:
       - "C:/Users/20503/.dotnet/tools/gcc-ranlib-16.com"
       - "C:/Users/20503/.dotnet/tools/gcc-ranlib-16.exe"
       - "C:/Users/20503/.dotnet/tools/gcc-ranlib-16"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ranlib-16.com"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ranlib-16.exe"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ranlib-16"
       - "C:/mingw64/bin/gcc-ranlib16.com"
       - "C:/mingw64/bin/gcc-ranlib16.exe"
       - "C:/mingw64/bin/gcc-ranlib16"
@@ -4073,6 +4145,9 @@ events:
       - "C:/Users/20503/.dotnet/tools/gcc-ranlib16.com"
       - "C:/Users/20503/.dotnet/tools/gcc-ranlib16.exe"
       - "C:/Users/20503/.dotnet/tools/gcc-ranlib16"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ranlib16.com"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ranlib16.exe"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/gcc-ranlib16"
       - "C:/mingw64/bin/gcc-ranlib.com"
     found: "C:/mingw64/bin/gcc-ranlib.exe"
     search_context:
@@ -4122,6 +4197,7 @@ events:
         - "C:\\mingw64\\bin"
         - "C:\\Users\\20503\\.dotnet\\tools"
         - "C:\\Program Files\\dotnet\\"
+        - "c:\\Users\\20503\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScriptsc:\\Users\\20503\\.vscode\\extensions\\vscjava.vscode-java-debug-0.59.0\\bundled\\scripts\\noConfigScripts"
   -
     kind: "find-v1"
     backtrace:
@@ -4179,6 +4255,7 @@ events:
       - "C:/Users/20503/go/bin/"
       - "C:/mingw64/bin/"
       - "C:/Users/20503/.dotnet/tools/"
+      - "C:/Users/20503/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScriptsc:/Users/20503/.vscode/extensions/vscjava.vscode-java-debug-0.59.0/bundled/scripts/noConfigScripts/"
       - "C:/Program Files/bin/"
       - "C:/Program Files/sbin/"
       - "C:/Program Files/"
@@ -4337,6 +4414,7 @@ events:
         - "C:\\mingw64\\bin"
         - "C:\\Users\\20503\\.dotnet\\tools"
         - "C:\\Program Files\\dotnet\\"
+        - "c:\\Users\\20503\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScriptsc:\\Users\\20503\\.vscode\\extensions\\vscjava.vscode-java-debug-0.59.0\\bundled\\scripts\\noConfigScripts"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/C\u6848\u4f8b"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -4352,8 +4430,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-xcoxmx"
-      binary: "D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-xcoxmx"
+      source: "D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-nkb2r4"
+      binary: "D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-nkb2r4"
     cmakeVariables:
       CMAKE_CXX_STDLIB_MODULES_JSON: ""
       CMAKE_C_FLAGS: ""
@@ -4363,13 +4441,13 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: false
       stdout: |
-        Change Dir: 'D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-xcoxmx'
+        Change Dir: 'D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-nkb2r4'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_4f032/fast
-        C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_4f032.dir\\build.make CMakeFiles/cmTC_4f032.dir/build
-        mingw32-make[1]: Entering directory 'D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-xcoxmx'
-        Building C object CMakeFiles/cmTC_4f032.dir/CMakeCCompilerABI.c.obj
-        C:\\mingw64\\bin\\cc.exe   -v -o CMakeFiles\\cmTC_4f032.dir\\CMakeCCompilerABI.c.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCCompilerABI.c"
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_fd607/fast
+        C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_fd607.dir\\build.make CMakeFiles/cmTC_fd607.dir/build
+        mingw32-make[1]: Entering directory 'D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-nkb2r4'
+        Building C object CMakeFiles/cmTC_fd607.dir/CMakeCCompilerABI.c.obj
+        C:\\mingw64\\bin\\cc.exe   -v -o CMakeFiles\\cmTC_fd607.dir\\CMakeCCompilerABI.c.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCCompilerABI.c"
         Using built-in specs.
         COLLECT_GCC=C:\\mingw64\\bin\\cc.exe
         Target: x86_64-w64-mingw32
@@ -4377,8 +4455,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib
         gcc version 16.2.0 (x86_64-posix-seh-rev1, Built by MinGW-Builds project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_4f032.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_4f032.dir\\'
-         C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/cc1.exe -quiet -v -iprefix C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_4f032.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=core2 -march=nocona -version -o C:\\Users\\20503\\AppData\\Local\\Temp\\ccj5Hdvm.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_fd607.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_fd607.dir\\'
+         C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/cc1.exe -quiet -v -iprefix C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_fd607.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=core2 -march=nocona -version -o C:\\Users\\20503\\AppData\\Local\\Temp\\ccQrbshl.s
         GNU C23 (x86_64-posix-seh-rev1, Built by MinGW-Builds project) version 16.2.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 16.2.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version isl-0.27-GMP
         
@@ -4395,14 +4473,14 @@ events:
          C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/include
         End of search list.
         Compiler executable checksum: 0ebdc214629bd3dbbd7a2a648b3bce45
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_4f032.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_4f032.dir\\'
-         C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_4f032.dir\\CMakeCCompilerABI.c.obj C:\\Users\\20503\\AppData\\Local\\Temp\\ccj5Hdvm.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_fd607.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_fd607.dir\\'
+         C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_fd607.dir\\CMakeCCompilerABI.c.obj C:\\Users\\20503\\AppData\\Local\\Temp\\ccQrbshl.s
         GNU assembler version 2.47 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.47.20260726
         COMPILER_PATH=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/;C:/mingw64/bin/../libexec/gcc/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/;C:/mingw64/bin/../lib/gcc/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_4f032.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_4f032.dir\\CMakeCCompilerABI.c.'
-        Linking C executable cmTC_4f032.exe
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_4f032.dir\\link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_fd607.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_fd607.dir\\CMakeCCompilerABI.c.'
+        Linking C executable cmTC_fd607.exe
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_fd607.dir\\link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=C:\\mingw64\\bin\\cc.exe
         COLLECT_LTO_WRAPPER=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe
@@ -4413,16 +4491,16 @@ events:
         gcc version 16.2.0 (x86_64-posix-seh-rev1, Built by MinGW-Builds project) 
         COMPILER_PATH=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/;C:/mingw64/bin/../libexec/gcc/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/;C:/mingw64/bin/../lib/gcc/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_4f032.exe' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_4f032.'
-         C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\20503\\AppData\\Local\\Temp\\ccLJcC8x.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1620-posix-seh-ucrt-rt_v14-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_4f032.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_4f032.dir/objects.a --no-whole-archive --out-implib libcmTC_4f032.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_fd607.exe' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_fd607.'
+         C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\20503\\AppData\\Local\\Temp\\ccSgJP9B.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1620-posix-seh-ucrt-rt_v14-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_fd607.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_fd607.dir/objects.a --no-whole-archive --out-implib libcmTC_fd607.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o
         collect2 version 16.2.0
-        C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\20503\\AppData\\Local\\Temp\\ccLJcC8x.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1620-posix-seh-ucrt-rt_v14-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_4f032.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_4f032.dir/objects.a --no-whole-archive --out-implib libcmTC_4f032.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o
+        C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\20503\\AppData\\Local\\Temp\\ccSgJP9B.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1620-posix-seh-ucrt-rt_v14-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_fd607.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_fd607.dir/objects.a --no-whole-archive --out-implib libcmTC_fd607.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o
         GNU ld (GNU Binutils) 2.47.20260726
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_4f032.exe' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_4f032.'
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_4f032.dir/objects.a
-        C:\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_4f032.dir/objects.a @CMakeFiles\\cmTC_4f032.dir\\objects1.rsp
-        C:\\mingw64\\bin\\cc.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_4f032.dir/objects.a -Wl,--no-whole-archive -o cmTC_4f032.exe -Wl,--out-implib,libcmTC_4f032.dll.a -Wl,--major-image-version,0,--minor-image-version,0
-        mingw32-make[1]: Leaving directory 'D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-xcoxmx'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_fd607.exe' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_fd607.'
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_fd607.dir/objects.a
+        C:\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_fd607.dir/objects.a @CMakeFiles\\cmTC_fd607.dir\\objects1.rsp
+        C:\\mingw64\\bin\\cc.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_fd607.dir/objects.a -Wl,--no-whole-archive -o cmTC_fd607.exe -Wl,--out-implib,libcmTC_fd607.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        mingw32-make[1]: Leaving directory 'D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-nkb2r4'
         
       exitCode: 0
   -
@@ -4455,13 +4533,13 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|wild|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|wild))("|,| |$)]
-        ignore line: [Change Dir: 'D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-xcoxmx']
+        ignore line: [Change Dir: 'D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-nkb2r4']
         ignore line: []
-        ignore line: [Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_4f032/fast]
-        ignore line: [C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_4f032.dir\\build.make CMakeFiles/cmTC_4f032.dir/build]
-        ignore line: [mingw32-make[1]: Entering directory 'D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-xcoxmx']
-        ignore line: [Building C object CMakeFiles/cmTC_4f032.dir/CMakeCCompilerABI.c.obj]
-        ignore line: [C:\\mingw64\\bin\\cc.exe   -v -o CMakeFiles\\cmTC_4f032.dir\\CMakeCCompilerABI.c.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCCompilerABI.c"]
+        ignore line: [Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_fd607/fast]
+        ignore line: [C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_fd607.dir\\build.make CMakeFiles/cmTC_fd607.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-nkb2r4']
+        ignore line: [Building C object CMakeFiles/cmTC_fd607.dir/CMakeCCompilerABI.c.obj]
+        ignore line: [C:\\mingw64\\bin\\cc.exe   -v -o CMakeFiles\\cmTC_fd607.dir\\CMakeCCompilerABI.c.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCCompilerABI.c"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\mingw64\\bin\\cc.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -4470,8 +4548,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 16.2.0 (x86_64-posix-seh-rev1  Built by MinGW-Builds project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_4f032.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_4f032.dir\\']
-        ignore line: [ C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/cc1.exe -quiet -v -iprefix C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_4f032.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=core2 -march=nocona -version -o C:\\Users\\20503\\AppData\\Local\\Temp\\ccj5Hdvm.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_fd607.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_fd607.dir\\']
+        ignore line: [ C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/cc1.exe -quiet -v -iprefix C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_fd607.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=core2 -march=nocona -version -o C:\\Users\\20503\\AppData\\Local\\Temp\\ccQrbshl.s]
         ignore line: [GNU C23 (x86_64-posix-seh-rev1  Built by MinGW-Builds project) version 16.2.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 16.2.0  GMP version 6.2.1  MPFR version 4.1.0  MPC version 1.2.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -4488,8 +4566,8 @@ events:
         ignore line: [ C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 0ebdc214629bd3dbbd7a2a648b3bce45]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_4f032.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_4f032.dir\\']
-        ignore line: [ C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_4f032.dir\\CMakeCCompilerABI.c.obj C:\\Users\\20503\\AppData\\Local\\Temp\\ccj5Hdvm.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_fd607.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_fd607.dir\\']
+        ignore line: [ C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_fd607.dir\\CMakeCCompilerABI.c.obj C:\\Users\\20503\\AppData\\Local\\Temp\\ccQrbshl.s]
         ignore line: [GNU assembler version 2.47 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.47.20260726]
         ignore line: [COMPILER_PATH=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/]
         ignore line: [C:/mingw64/bin/../libexec/gcc/]
@@ -4500,9 +4578,9 @@ events:
         ignore line: [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/]
         ignore line: [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_4f032.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_4f032.dir\\CMakeCCompilerABI.c.']
-        ignore line: [Linking C executable cmTC_4f032.exe]
-        ignore line: ["C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_4f032.dir\\link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_fd607.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_fd607.dir\\CMakeCCompilerABI.c.']
+        ignore line: [Linking C executable cmTC_fd607.exe]
+        ignore line: ["C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_fd607.dir\\link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\mingw64\\bin\\cc.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe]
@@ -4520,14 +4598,14 @@ events:
         ignore line: [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/]
         ignore line: [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_4f032.exe' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_4f032.']
-        link line: [ C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\20503\\AppData\\Local\\Temp\\ccLJcC8x.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1620-posix-seh-ucrt-rt_v14-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_4f032.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_4f032.dir/objects.a --no-whole-archive --out-implib libcmTC_4f032.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o] ==> linker architecture flags [-m;i386pep]
-        link line: [ C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\20503\\AppData\\Local\\Temp\\ccLJcC8x.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1620-posix-seh-ucrt-rt_v14-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_4f032.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_4f032.dir/objects.a --no-whole-archive --out-implib libcmTC_4f032.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_fd607.exe' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_fd607.']
+        link line: [ C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\20503\\AppData\\Local\\Temp\\ccSgJP9B.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1620-posix-seh-ucrt-rt_v14-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_fd607.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_fd607.dir/objects.a --no-whole-archive --out-implib libcmTC_fd607.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o] ==> linker architecture flags [-m;i386pep]
+        link line: [ C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\20503\\AppData\\Local\\Temp\\ccSgJP9B.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1620-posix-seh-ucrt-rt_v14-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_fd607.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_fd607.dir/objects.a --no-whole-archive --out-implib libcmTC_fd607.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o]
           arg [C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe] ==> ignore
-          arg [-plugin-opt=-fresolution=C:\\Users\\20503\\AppData\\Local\\Temp\\ccLJcC8x.res] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\20503\\AppData\\Local\\Temp\\ccSgJP9B.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_eh] ==> ignore
@@ -4551,7 +4629,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_4f032.exe] ==> ignore
+          arg [cmTC_fd607.exe] ==> ignore
           arg [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> obj [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o]
           arg [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o] ==> obj [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o]
           arg [-LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0] ==> dir [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0]
@@ -4562,10 +4640,10 @@ events:
           arg [-LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../..] ==> dir [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../..]
           arg [-v] ==> ignore
           arg [--whole-archive] ==> ignore
-          arg [CMakeFiles\\cmTC_4f032.dir/objects.a] ==> ignore
+          arg [CMakeFiles\\cmTC_fd607.dir/objects.a] ==> ignore
           arg [--no-whole-archive] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_4f032.dll.a] ==> ignore
+          arg [libcmTC_fd607.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
@@ -4648,8 +4726,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-7hmswm"
-      binary: "D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-7hmswm"
+      source: "D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-si0mbt"
+      binary: "D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-si0mbt"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -4660,13 +4738,13 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: false
       stdout: |
-        Change Dir: 'D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-7hmswm'
+        Change Dir: 'D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-si0mbt'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_3653b/fast
-        C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_3653b.dir\\build.make CMakeFiles/cmTC_3653b.dir/build
-        mingw32-make[1]: Entering directory 'D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-7hmswm'
-        Building CXX object CMakeFiles/cmTC_3653b.dir/CMakeCXXCompilerABI.cpp.obj
-        C:\\mingw64\\bin\\c++.exe   -v -o CMakeFiles\\cmTC_3653b.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp"
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_52554/fast
+        C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_52554.dir\\build.make CMakeFiles/cmTC_52554.dir/build
+        mingw32-make[1]: Entering directory 'D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-si0mbt'
+        Building CXX object CMakeFiles/cmTC_52554.dir/CMakeCXXCompilerABI.cpp.obj
+        C:\\mingw64\\bin\\c++.exe   -v -o CMakeFiles\\cmTC_52554.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp"
         Using built-in specs.
         COLLECT_GCC=C:\\mingw64\\bin\\c++.exe
         Target: x86_64-w64-mingw32
@@ -4674,8 +4752,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib
         gcc version 16.2.0 (x86_64-posix-seh-rev1, Built by MinGW-Builds project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_3653b.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_3653b.dir\\'
-         C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/cc1plus.exe -quiet -v -iprefix C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_3653b.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=core2 -march=nocona -version -o C:\\Users\\20503\\AppData\\Local\\Temp\\ccb1IsBV.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_52554.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_52554.dir\\'
+         C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/cc1plus.exe -quiet -v -iprefix C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_52554.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=core2 -march=nocona -version -o C:\\Users\\20503\\AppData\\Local\\Temp\\ccOO7EZ4.s
         GNU C++20 (x86_64-posix-seh-rev1, Built by MinGW-Builds project) version 16.2.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 16.2.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version isl-0.27-GMP
         
@@ -4698,14 +4776,14 @@ events:
          C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/include
         End of search list.
         Compiler executable checksum: 353903603003565cf57eca121ee0183e
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_3653b.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_3653b.dir\\'
-         C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_3653b.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\20503\\AppData\\Local\\Temp\\ccb1IsBV.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_52554.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_52554.dir\\'
+         C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_52554.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\20503\\AppData\\Local\\Temp\\ccOO7EZ4.s
         GNU assembler version 2.47 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.47.20260726
         COMPILER_PATH=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/;C:/mingw64/bin/../libexec/gcc/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/;C:/mingw64/bin/../lib/gcc/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_3653b.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_3653b.dir\\CMakeCXXCompilerABI.cpp.'
-        Linking CXX executable cmTC_3653b.exe
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_3653b.dir\\link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_52554.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_52554.dir\\CMakeCXXCompilerABI.cpp.'
+        Linking CXX executable cmTC_52554.exe
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_52554.dir\\link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=C:\\mingw64\\bin\\c++.exe
         COLLECT_LTO_WRAPPER=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe
@@ -4716,16 +4794,16 @@ events:
         gcc version 16.2.0 (x86_64-posix-seh-rev1, Built by MinGW-Builds project) 
         COMPILER_PATH=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/;C:/mingw64/bin/../libexec/gcc/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/;C:/mingw64/bin/../lib/gcc/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3653b.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_3653b.'
-         C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\20503\\AppData\\Local\\Temp\\ccfHTue7.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1620-posix-seh-ucrt-rt_v14-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_3653b.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_3653b.dir/objects.a --no-whole-archive --out-implib libcmTC_3653b.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_52554.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_52554.'
+         C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\20503\\AppData\\Local\\Temp\\cc3d3g0d.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1620-posix-seh-ucrt-rt_v14-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_52554.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_52554.dir/objects.a --no-whole-archive --out-implib libcmTC_52554.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o
         collect2 version 16.2.0
-        C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\20503\\AppData\\Local\\Temp\\ccfHTue7.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1620-posix-seh-ucrt-rt_v14-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_3653b.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_3653b.dir/objects.a --no-whole-archive --out-implib libcmTC_3653b.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o
+        C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\20503\\AppData\\Local\\Temp\\cc3d3g0d.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1620-posix-seh-ucrt-rt_v14-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_52554.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_52554.dir/objects.a --no-whole-archive --out-implib libcmTC_52554.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o
         GNU ld (GNU Binutils) 2.47.20260726
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3653b.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_3653b.'
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_3653b.dir/objects.a
-        C:\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_3653b.dir/objects.a @CMakeFiles\\cmTC_3653b.dir\\objects1.rsp
-        C:\\mingw64\\bin\\c++.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_3653b.dir/objects.a -Wl,--no-whole-archive -o cmTC_3653b.exe -Wl,--out-implib,libcmTC_3653b.dll.a -Wl,--major-image-version,0,--minor-image-version,0
-        mingw32-make[1]: Leaving directory 'D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-7hmswm'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_52554.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_52554.'
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_52554.dir/objects.a
+        C:\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_52554.dir/objects.a @CMakeFiles\\cmTC_52554.dir\\objects1.rsp
+        C:\\mingw64\\bin\\c++.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_52554.dir/objects.a -Wl,--no-whole-archive -o cmTC_52554.exe -Wl,--out-implib,libcmTC_52554.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        mingw32-make[1]: Leaving directory 'D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-si0mbt'
         
       exitCode: 0
   -
@@ -4764,13 +4842,13 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|wild|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|wild))("|,| |$)]
-        ignore line: [Change Dir: 'D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-7hmswm']
+        ignore line: [Change Dir: 'D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-si0mbt']
         ignore line: []
-        ignore line: [Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_3653b/fast]
-        ignore line: [C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_3653b.dir\\build.make CMakeFiles/cmTC_3653b.dir/build]
-        ignore line: [mingw32-make[1]: Entering directory 'D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-7hmswm']
-        ignore line: [Building CXX object CMakeFiles/cmTC_3653b.dir/CMakeCXXCompilerABI.cpp.obj]
-        ignore line: [C:\\mingw64\\bin\\c++.exe   -v -o CMakeFiles\\cmTC_3653b.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp"]
+        ignore line: [Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_52554/fast]
+        ignore line: [C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_52554.dir\\build.make CMakeFiles/cmTC_52554.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'D:/mytool/01_doc/doc-C/C0/build/CMakeFiles/CMakeScratch/TryCompile-si0mbt']
+        ignore line: [Building CXX object CMakeFiles/cmTC_52554.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [C:\\mingw64\\bin\\c++.exe   -v -o CMakeFiles\\cmTC_52554.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\mingw64\\bin\\c++.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -4779,8 +4857,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 16.2.0 (x86_64-posix-seh-rev1  Built by MinGW-Builds project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_3653b.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_3653b.dir\\']
-        ignore line: [ C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/cc1plus.exe -quiet -v -iprefix C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_3653b.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=core2 -march=nocona -version -o C:\\Users\\20503\\AppData\\Local\\Temp\\ccb1IsBV.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_52554.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_52554.dir\\']
+        ignore line: [ C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/cc1plus.exe -quiet -v -iprefix C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.4\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_52554.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=core2 -march=nocona -version -o C:\\Users\\20503\\AppData\\Local\\Temp\\ccOO7EZ4.s]
         ignore line: [GNU C++20 (x86_64-posix-seh-rev1  Built by MinGW-Builds project) version 16.2.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 16.2.0  GMP version 6.2.1  MPFR version 4.1.0  MPC version 1.2.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -4803,8 +4881,8 @@ events:
         ignore line: [ C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 353903603003565cf57eca121ee0183e]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_3653b.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_3653b.dir\\']
-        ignore line: [ C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_3653b.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\20503\\AppData\\Local\\Temp\\ccb1IsBV.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_52554.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_52554.dir\\']
+        ignore line: [ C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_52554.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\20503\\AppData\\Local\\Temp\\ccOO7EZ4.s]
         ignore line: [GNU assembler version 2.47 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.47.20260726]
         ignore line: [COMPILER_PATH=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/]
         ignore line: [C:/mingw64/bin/../libexec/gcc/]
@@ -4815,9 +4893,9 @@ events:
         ignore line: [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/]
         ignore line: [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_3653b.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_3653b.dir\\CMakeCXXCompilerABI.cpp.']
-        ignore line: [Linking CXX executable cmTC_3653b.exe]
-        ignore line: ["C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_3653b.dir\\link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_52554.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_52554.dir\\CMakeCXXCompilerABI.cpp.']
+        ignore line: [Linking CXX executable cmTC_52554.exe]
+        ignore line: ["C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_52554.dir\\link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\mingw64\\bin\\c++.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe]
@@ -4835,14 +4913,14 @@ events:
         ignore line: [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/]
         ignore line: [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3653b.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_3653b.']
-        link line: [ C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\20503\\AppData\\Local\\Temp\\ccfHTue7.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1620-posix-seh-ucrt-rt_v14-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_3653b.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_3653b.dir/objects.a --no-whole-archive --out-implib libcmTC_3653b.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o] ==> linker architecture flags [-m;i386pep]
-        link line: [ C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\20503\\AppData\\Local\\Temp\\ccfHTue7.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1620-posix-seh-ucrt-rt_v14-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_3653b.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_3653b.dir/objects.a --no-whole-archive --out-implib libcmTC_3653b.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_52554.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_52554.']
+        link line: [ C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\20503\\AppData\\Local\\Temp\\cc3d3g0d.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1620-posix-seh-ucrt-rt_v14-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_52554.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_52554.dir/objects.a --no-whole-archive --out-implib libcmTC_52554.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o] ==> linker architecture flags [-m;i386pep]
+        link line: [ C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\20503\\AppData\\Local\\Temp\\cc3d3g0d.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1620-posix-seh-ucrt-rt_v14-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_52554.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_52554.dir/objects.a --no-whole-archive --out-implib libcmTC_52554.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o]
           arg [C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe] ==> ignore
-          arg [-plugin-opt=-fresolution=C:\\Users\\20503\\AppData\\Local\\Temp\\ccfHTue7.res] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\20503\\AppData\\Local\\Temp\\cc3d3g0d.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
@@ -4866,7 +4944,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_3653b.exe] ==> ignore
+          arg [cmTC_52554.exe] ==> ignore
           arg [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> obj [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o]
           arg [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o] ==> obj [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o]
           arg [-LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0] ==> dir [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0]
@@ -4877,10 +4955,10 @@ events:
           arg [-LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../..] ==> dir [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../..]
           arg [-v] ==> ignore
           arg [--whole-archive] ==> ignore
-          arg [CMakeFiles\\cmTC_3653b.dir/objects.a] ==> ignore
+          arg [CMakeFiles\\cmTC_52554.dir/objects.a] ==> ignore
           arg [--no-whole-archive] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_3653b.dll.a] ==> ignore
+          arg [libcmTC_52554.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
