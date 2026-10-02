@@ -5,5 +5,5 @@ git pull
 
 # 推送本地代码
 git add .
-git commit -m "first: $(Get-Date-Format 'yyyy-MM-dd HH:mm:ss')"
+git commit -m "first: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
 git push
