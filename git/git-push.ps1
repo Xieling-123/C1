@@ -1,4 +1,5 @@
-cd C案例
+# cd C案例
+
 # 1. 初始化（如果已经 init 过，跳过）
 git init
 
