@@ -1,7 +1,7 @@
 # cd C案例
 
 # 拉取远程代码
-git pull 
+# git pull 
 
 # 推送本地代码
 git add .
