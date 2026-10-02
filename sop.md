@@ -11,5 +11,5 @@
 git版本控制，提交后，日常更新自动化
 git仓库：https://github.com/Xieling-123/c-1.git
 
-.\git-push.ps1
+建立仓库，cd到对应路径，进行首次提交
 .\git-pull.ps1
