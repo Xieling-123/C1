@@ -6,7 +6,8 @@ project(C案例)
 
 # 设置 C 标准
 set(CMAKE_C_STANDARD 11)
-
+# 编译
+set(CMAKE_C_FLAGS "-fexec-charset=GBK")
 
 # 1、扫描对应文件夹的.c文件
 # 扫描 src 目录下所有 .c 文件，创建对应的src
@@ -26,13 +27,3 @@ add_executable(test ${TEST_SOURCES} src/math_utils.c)
 target_include_directories(main PRIVATE src)
 target_include_directories(test PRIVATE src)
 
-
-# 使用方法：
-Remove-Item -Recurse -Force build # 1. 清空旧的 build 目录（防止旧配置干扰）
-cd C案例
-mkdir build
-cd build
-cmake -G "MinGW Makefiles" ..
-mingw32-make
-.\main.exe
-.\test.exe
