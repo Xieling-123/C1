@@ -9,7 +9,7 @@ git init
 git add .
 
 # 3. 提交（用英文，防乱码）
-git commit -m "first commit"
+git commit -m "commit"
 
 # 4. 关联远程仓库（首次用 add，已存在才用 set-url）注意
 git remote set-url origin https://github.com/Xieling-123/C1.git
