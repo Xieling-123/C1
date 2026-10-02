@@ -1,5 +1,5 @@
 # cd C案例
 git pull 
 git add .
-git commit -m "提交"
+git commit -m "first"
 git push
